@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danur Ari</h1>
+<h1 align="center">Hi 👋, I'm danurari</h1>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danurari&show_icons=true&locale=en&layout=compact" alt="danurari" /></p>
